@@ -2,21 +2,21 @@
 
 ### Olá, meu nome é Carlos Eduardo!
 
-<p align=""> 
+<p align="left"> 
   Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
+<div>
+<p align="left">
+  🦄 Linguagens: **Javascript, Typescript, Kotlin**
+</p>
 <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4rl0sfilho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
-      />
-
-
-<p align="left">
-  🦄 Linguagens: **Javascript, Typescript, Kotlin**
-</p>
+      />  
+<div/>
 
 <p align="left">
   💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
