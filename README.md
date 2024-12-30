@@ -3,8 +3,7 @@
 ### Olá, meu nome é Carlos Eduardo!
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Sou um jovem desenvoldor Full-Stack, ainda não tive a oportunidade de ingressar em um emprego para aplicar meus conhecimentos, mas tenho expreriência em projetos acadêmicos.
 </p>
 
 <img
