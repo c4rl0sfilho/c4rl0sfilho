@@ -7,7 +7,7 @@
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-<div>
+<div display="flex">
 <p align="left">
   👨‍💻 Linguagens: ⤵️
 </p>
