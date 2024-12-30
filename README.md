@@ -9,7 +9,7 @@
 
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: **Javascript, Typescript, Kotlin**
 </p>
 
 <p align="left">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato comigo: ⤵️
 </p>
 
 <p align="left">
