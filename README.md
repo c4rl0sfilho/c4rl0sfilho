@@ -9,16 +9,16 @@
 
 <div>
 <p align="left">
-  🦄 Linguagens: **Javascript, Typescript, Kotlin**
+  👨‍💻 Linguagens: ⤵️
 </p>
 <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4rl0sfilho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />  
-<div/>
 
-<p align="left">
+
+  <p align="left">
   💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
 </p>
 
@@ -38,3 +38,6 @@
   <a href="https://www.instagram.com/cadu.filho_/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
+
+<div/>
+
