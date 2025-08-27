@@ -3,7 +3,7 @@
 ### Olá, meu nome é Carlos Eduardo!
 
 <p align="left"> 
-  Sou um jovem desenvoldor Full-Stack, ainda não tive a oportunidade de ingressar em um emprego para aplicar meus conhecimentos, mas tenho expreriência em projetos acadêmicos.
+  Sou um jovem desenvolvedor Full-Stack, ainda não tive a oportunidade de ingressar em um emprego para aplicar meus conhecimentos, mas tenho experiência em projetos acadêmicos.
 </p>
 
 <img
